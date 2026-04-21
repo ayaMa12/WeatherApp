@@ -1,8 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "WeatherApp",
-  "private": true,
+"homepage": "https://ayaMa12.github.io/WeatherApp",  "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
